@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.454fec24.chunk.js",
-    "main.js.map": "/static/js/main.454fec24.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.284a846a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.284a846a.js.map",
-    "static/js/2.181861ad.chunk.js": "/static/js/2.181861ad.chunk.js",
-    "static/js/2.181861ad.chunk.js.map": "/static/js/2.181861ad.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.58b8337f0b654c22fe53faac7be1f69c.js": "/precache-manifest.58b8337f0b654c22fe53faac7be1f69c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/lighthouseintegration/static/css/main.b100e6da.chunk.css",
+    "main.js": "/lighthouseintegration/static/js/main.d6d6a895.chunk.js",
+    "main.js.map": "/lighthouseintegration/static/js/main.d6d6a895.chunk.js.map",
+    "runtime-main.js": "/lighthouseintegration/static/js/runtime-main.53d4fa5e.js",
+    "runtime-main.js.map": "/lighthouseintegration/static/js/runtime-main.53d4fa5e.js.map",
+    "static/js/2.181861ad.chunk.js": "/lighthouseintegration/static/js/2.181861ad.chunk.js",
+    "static/js/2.181861ad.chunk.js.map": "/lighthouseintegration/static/js/2.181861ad.chunk.js.map",
+    "index.html": "/lighthouseintegration/index.html",
+    "precache-manifest.545dcf4437d6d4b58114a536e3ee7de4.js": "/lighthouseintegration/precache-manifest.545dcf4437d6d4b58114a536e3ee7de4.js",
+    "service-worker.js": "/lighthouseintegration/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/lighthouseintegration/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/lighthouseintegration/static/media/logo.25bf045c.svg"
   }
 }
