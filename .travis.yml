@@ -7,3 +7,9 @@ script:
   - yarn
   - echo 'Testing!'
   - npm run test
+branches:
+  only: 
+    - gh-pages
+after_success:
+  - npm run delpoy
+  - npm run lh -- http://aamitsharma2705.github.io/lighthouseintegration
