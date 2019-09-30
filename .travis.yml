@@ -9,4 +9,4 @@ script:
   - npm run test
 after_success:
   - npm run delpoy
-  - npm run lh -- http://aamitsharma2705.github.io/lighthouseintegration
+  - npm run lh -- --perf=96 --pwa=80 http://aamitsharma2705.github.io/lighthouseintegration
