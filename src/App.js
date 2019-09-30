@@ -1,5 +1,6 @@
 import React from 'react';
 import {Hello} from './comp';
+import {Hello1} from './comp-2';
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +19,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React <Hello/>
+          <Hello1 />
         </a>
       </header>
     </div>
