@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Hello = () => (<span>Hello</span>);
+const Hello1 = () => (<span>Hello</span>);
 
-export {Hello};
+export {Hello1};
